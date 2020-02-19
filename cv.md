@@ -1,5 +1,5 @@
 
-<img src="wuyou.jpg" alt="photo" align="right">
+<img src="https://github.com/yoyo-go/Yoyo-project/blob/master/wuyou.JPG" alt="photo" align="right">
 
 ### You WU
 **Mobile:** +86 181-1733-9258<br />
